@@ -1,0 +1,36 @@
+{
+  "texture": "creeper.png",
+  "textureSize": [
+    64,
+    64
+  ],
+  "shadowSize": ".5",
+  "models": [
+    {
+      "model": "creeper_body.jpm",
+      "part": "body",
+      "scale": "1",
+      "animations":
+        [
+        ]
+    },
+    {
+      "part": "head"
+    },
+    {
+      "part": "armor"
+    },
+    {
+      "part": "leg1"
+    },
+    {
+      "part": "leg2"
+    },
+    {
+      "part": "leg3"
+    },
+    {
+      "part": "leg4"
+    }
+  ]
+}

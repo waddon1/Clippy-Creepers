@@ -1,0 +1,84 @@
+{
+  "comment": "Created for Minecraft: Java Edition by qixtand. Original model and credit goes to samasaurus6: https://twitter.com/samasaurus6/status/880364008263622657.",
+  "submodels": [
+    {
+      "comment": "body",
+      "rotate": [0,0,0],
+      "invertAxis": "y",
+      "boxes": [
+        {
+          "coordinates": [-11.0,30.0,-4.0,9.0,3.0,3.0],
+          "textureOffset": [24,58]
+        },
+        {
+          "coordinates": [-11.0,39.0,-4.0,6.0,3.0,3.0],
+          "textureOffset": [24,46]
+        },
+        {
+          "coordinates": [-8.0,3.0,-1.0,3.0,42.0,3.0],
+          "textureOffset": [0,19]
+        },
+        {
+          "coordinates": [-8.0,27.0,-4.0,3.0,3.0,3.0],
+          "textureOffset": [0,1]
+        },
+        {
+          "coordinates": [-8.0,33.0,-4.0,3.0,3.0,3.0],
+          "textureOffset": [0,1]
+        },
+        {
+          "coordinates": [-5.0,0.0,-1.0,9.0,3.0,3.0],
+          "textureOffset": [24,52]
+        },
+        {
+          "coordinates": [-5.0,36.0,-4.0,3.0,3.0,3.0],
+          "textureOffset": [12,16]
+        },
+        {
+          "coordinates": [-5.0,45.0,-1.0,9.0,3.0,3.0],
+          "textureOffset": [24,52]
+        },
+        {
+          "coordinates": [-2.0,15.0,-1.0,3.0,9.0,3.0],
+          "textureOffset": [0,7]
+        },
+        {
+          "coordinates": [1.0,12.0,-1.0,3.0,3.0,3.0],
+          "textureOffset": [12,10]
+        },
+        {
+          "coordinates": [1.0,30.0,-4.0,9.0,3.0,3.0],
+          "textureOffset": [24,58]
+        },
+        {
+          "coordinates": [1.0,36.0,-4.0,3.0,3.0,3.0],
+          "textureOffset": [12,16]
+        },
+        {
+          "coordinates": [4.0,3.0,-1.0,3.0,6.0,3.0],
+          "textureOffset": [12,22]
+        },
+        {
+          "coordinates": [4.0,15.0,-1.0,3.0,30.0,3.0],
+          "textureOffset": [12,31]
+        },
+        {
+          "coordinates": [4.0,27.0,-4.0,3.0,3.0,3.0],
+          "textureOffset": [0,1]
+        },
+        {
+          "coordinates": [4.0,33.0,-4.0,3.0,3.0,3.0],
+          "textureOffset": [0,1]
+        },
+        {
+          "coordinates": [4.0,39.0,-4.0,6.0,3.0,3.0],
+          "textureOffset": [24,46]
+        },
+        {
+          "coordinates": [7.0,9.0,-1.0,3.0,3.0,3.0],
+          "textureOffset": [12,10]
+        }
+      ]
+    }
+  ]
+}
