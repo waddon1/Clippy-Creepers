@@ -9,7 +9,7 @@
     {
       "model": "creeper_body.jpm",
       "part": "body",
-      "scale": "1",
+      "scale": ".55",
       "animations":
         [
         ]

@@ -1,11 +1,11 @@
 {
-  "comment": "Created for Minecraft: Java Edition by qixtand. Original model and credit goes to samasaurus6: https://twitter.com/samasaurus6/status/880364008263622657.",
+  "comment": "Translated to Minecraft (Java) by qixtand. Original model and texture by samasaurus6: https://twitter.com/samasaurus6/status/880364008263622657.",
   "submodels": [
     {
       "comment": "body",
       "rotate": [0,0,0],
       "invertAxis": "y",
-      "translate": [0, -12, 0],
+      "translate": [0, -32, 0],
       "boxes": [
         {
           "coordinates": [-11.0,30.0,-4.0,9.0,3.0,3.0],
